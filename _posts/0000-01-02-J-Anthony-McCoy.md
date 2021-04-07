@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hi Mom
+** Hi Mom, I'm using Markdown **
 Use the left arrow to go back!
